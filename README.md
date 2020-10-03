@@ -45,7 +45,7 @@ For more information see the [Official Documentation](https://docs.lakefs.io).
 
 #### Docker (MacOS, Linux)
 
-1. Ensure you have Docker & Docker Compose installed on your computer.
+1. Ensure that you have Docker & Docker Compose installed on your computer.
 
 2. Run the following command:
 
@@ -58,7 +58,7 @@ For more information see the [Official Documentation](https://docs.lakefs.io).
 
 #### Docker (Windows)
 
-1. Ensure you have Docker installed.
+1. Ensure that you have Docker installed in your machine.
 
 2. Run the following command in PowerShell:
 
@@ -77,26 +77,26 @@ Binaries are available at [https://github.com/treeverse/lakeFS/releases](https:/
 
 #### Setting up a repository
 
-Please follow the [Guide to Get Started](https://docs.lakefs.io/quickstart/repository) to set up your local lakeFS installation.
+Please, follow the [Guide to Get Started](https://docs.lakefs.io/quickstart/repository) to set up your local lakeFS installation.
 
 For more detailed information on how to set up lakeFS, please visit [the documentation](https://docs.lakefs.io).
 
 ## Community
 
-Stay up to date and get lakeFS support via:
+Get updates and get lakeFS support via:
 
-- [Slack](https://join.slack.com/t/lakefs/shared_invite/zt-g86mkroy-186GzaxR4xOar1i1Us0bzw) (to get help from our team and other users).
-- [Twitter](https://twitter.com/lakeFS) (follow for updates and news)
-- [YouTube](https://www.youtube.com/channel/UCZiDUd28ex47BTLuehb1qSA) (learn from video tutorials)
-- [Contact us](https://lakefs.io/contact-us/) (for anything)
+- 😀[Slack](https://join.slack.com/t/lakefs/shared_invite/zt-g86mkroy-186GzaxR4xOar1i1Us0bzw) (to get help from our team and other users).
+- 😁[Twitter](https://twitter.com/lakeFS) (follow for updates and news)
+- 😁[YouTube](https://www.youtube.com/channel/UCZiDUd28ex47BTLuehb1qSA) (learn from video tutorials) Subscribe for more videos👍
+- 📱 [Contact us](https://lakefs.io/contact-us/) (for anything)
 
 
 ## More information
 
 - [lakeFS documentation](https://docs.lakefs.io)
-- If you would like to contribute, check out our [contributing guide](https://docs.lakefs.io/contributing).
+- If you want to contribute, check out our [contributing guide](https://docs.lakefs.io/contributing).
 
 ## Licensing
 
-lakeFS is completely free and open source and licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0).
+lakeFS is completely free, an open source and licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0).
 
